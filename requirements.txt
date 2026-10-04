@@ -1,0 +1,12 @@
+geopandas
+shapely
+networkx
+matplotlib
+osmnx
+torch
+torch-geometric
+requests
+pandas
+numpy
+opencv-python-headless
+ultralytics
